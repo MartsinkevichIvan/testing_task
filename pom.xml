@@ -16,7 +16,7 @@
         <cucumber.version>6.8.0</cucumber.version>
         <spring.boot.version>2.7.0</spring.boot.version>
         <lombok.version>1.18.30</lombok.version>
-        <selenide.version>6.12.2</selenide.version>
+        <selenide.version>6.19.1</selenide.version>
         <maven.compiler.version>3.8.1</maven.compiler.version>
         <maver.surfire.version>3.1.0</maver.surfire.version>
     </properties>
