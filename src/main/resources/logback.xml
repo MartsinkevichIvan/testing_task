@@ -1,0 +1,1 @@
+<logger name="io.netty.util.ResourceLeakDetector" level="INFO"/>
